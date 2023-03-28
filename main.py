@@ -183,10 +183,7 @@ class UserSlime(Character):
 # 졸병몬스터
 class Monster(Character):
     def __init__(self, name, hp, power):
-        self.name = name
-        self.max_hp = hp
-        self.hp = hp
-        self.power = power
+        super().__init__(self, name, hp, power)
 
     def bite_attack(self, target):
         damage = random.randint(self.power - 10, self.power + 10)
