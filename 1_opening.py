@@ -1,0 +1,73 @@
+import time
+import random
+
+# 게임 오프닝 시작
+ask_skip = input(
+    "\n\n\n\n\n\n\n\n\n게임이 시작됩니다. 오프닝을 보시겠습니까?\n(y/n)\n\n\n\n\n\n 답변: ")
+
+if ask_skip == "y" or ask_skip == "yes" or ask_skip == "Y":
+    time.sleep(2)
+    print("\n\n\n\n\n\n\n\n-아빠!!\n\n\n\n\n\n")
+    time.sleep(3)
+    print("\n\n\n\n\n\n\n\n-아빠!!!!!\n\n\n\n\n\n")
+    time.sleep(3)
+    print("\n\n\n\n\n\n\n\n초등학교 앞.\n\n\n\n\n\n")
+    time.sleep(1)
+    print("\n\n\n\n\n\n\n\n학교가 끝난 어린이들이 왁자지끌 떠드는 소리로 북적거린다.\n\n\n\n\n\n")
+    time.sleep(3)
+    print("\n\n\n\n\n\n\n\n...\n\n\n\n\n\n")
+    time.sleep(3)
+    print("\n\n\n\n\n\n\n\n문득 오른 손에 느껴지는 작고 따뜻하고 말랑한 감촉.\n\n\n\n\n\n")
+    time.sleep(3)
+    print("\n\n\n\n\n\n\n\n무언가가 내 오른손을 잡아당긴다. 고개를 돌려본다.\n\n\n\n\n\n")
+    time.sleep(3)
+    print("\n\n\n\n\n\n\n\n말랑한 것의 정체는 바로\n\n\n\n\n\n")
+    time.sleep(3)
+    print("\n\n\n\n\n\n\n\n내 일곱 살 짜리 아들의 고사리 같은 손!!\n\n\n\n\n\n")
+    time.sleep(5)
+    print("\n\n\n\n\n\n\n\n-아빠!! 모해!! 빨랑!!\n\n\n\n\n\n")
+    time.sleep(3)
+    print("\n\n\n아들이 내 손을 바삐 잡아 끌며, 빠르게 인파 속을 헤집고 들어간다.\n\n\n\n\n\n")
+    time.sleep(3)
+    print("\n\n\n\n\n\n\n\n나는 어디로 향하는 지도 모르는 채...\n\n\n\n\n\n")
+    time.sleep(3)
+    print("\n\n\n거대한 초딩들의 파도 속으로 딸려들어 가고 있다...\n\n\n\n\n\n")
+    time.sleep(5)
+    print("\n\n\n\n\n\n\n. . .\n\n\n\n\n\n")
+    time.sleep(5)
+    print("\n\n\n\n\n\n\n-아빠! 다 왔어!!!\n\n\n\n\n\n")
+    time.sleep(5)
+    print("\n\n\n-이것 좀 봐봐!! 빨리!!!\n\n\n\n\n\n")
+    time.sleep(5)
+    print("\n\n\n\n\n\n\n\n아들의 손가락이 가리키는 곳에는. . .\n\n\n\n\n\n")
+    time.sleep(3)
+    print("\n\n\n\n\n\n\n\n그것이 있었다. . .\n\n\n\n\n\n")
+    time.sleep(2.5)
+    print("\n\n\n\n\n\n\n\n바로. . .\n\n\n\n\n\n")
+    time.sleep(3.5)
+    print("\n\n\n\n\n\n\n\n병아리!!\n\n\n\n\n\n")
+    time.sleep(3)
+    print("\n\n\n으윽....!!!!!!!!!!!!\n\n\n\n\n\n")
+    time.sleep(1)
+    print("\n\n\n\n\n\n\n\n병아리를 본 나는\n\n\n\n\n\n")
+    time.sleep(1)
+    print("\n\n\n\n\n\n\n\n일순간 너무 귀엽다고 느껴버렸고\n\n\n\n\n\n")
+    time.sleep(1.5)
+    print("\n\n\n\n\n\n\n\n무언가 가슴 속이 엄청 조여오면서\n\n\n\n\n\n")
+    time.sleep(2)
+    print("\n\n\n\n\n\n\n\n그대로 눈 앞이 흐려져 버렸다.\n\n\n\n\n\n")
+    time.sleep(3)
+    print("\n\n\n\n\n\n\n\n의사의 진단차트에는 이렇게 적혔다.\n\n\n\n\n\n")
+    time.sleep(3)
+    print("\n\n\n\n\n\n\n\na 환자의 사인은...\n\n\n\n\n\n")
+    time.sleep(3)
+    print("\n\n\n\n\n\n\n\n 심쿵사♥ \n\n\n\n\n\n")
+    time.sleep(5)
+    # 주인공 속성 고르기 코딩으로 넘어가야함
+
+
+else:
+    print("\n\n\n\n\n\n\n\n오프닝이 스킵되었습니다.\n곧바로 본 게임이 시작됩니다.\n\n\n\n\n")
+    time.sleep(5)
+    # 주인공 속성 고르기 코딩으로 넘어가야함
+# 게임 오프닝 끝
